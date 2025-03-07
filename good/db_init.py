@@ -20,7 +20,7 @@ def db_init_users():
 
     for u,p in users:
         user_create(u, p)
-
+ghp_we341asdrfdsrfqwejryqbtqc7312671382regqyiurtK
 
 def db_init_posts():
 
